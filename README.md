@@ -10,8 +10,6 @@ To run this project:
 - Clone the repository and create a virtual environment (e.g., using conda) with the dependencies listed in the requirements.txt file.
 
 - In your terminal, navigate to the project directory and execute the following command:
-
-    Copy code
     ```
     python app.py
     ```
