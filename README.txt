@@ -1,10 +1,10 @@
-Project Overview
+# Project Overview
 This project serves as a learning exercise to explore various technologies, including web scraping and Flask applications. The project is lightweight and does not have significant hardware requirements. It was developed on an Acer Aspire laptop with an Intel i7 processor, 8 cores, running Windows 10, and was created in Barcelona, Spain.
 
-Objective
+## Objective
 The main goal of this project is to simulate UEFA Champions League games to determine the most probable winner and predict the tournament bracket. To achieve this, I gathered data from past Champions League brackets and teams, using a web scraper to extract relevant HTML content, which I then parsed into usable tables. This data was further processed to create features for training a machine learning model for each season, leveraging both Champions League and local league data. Finally, I implemented a Monte Carlo simulation and developed a simple Flask application to visualize the results.
 
-Installation and Execution
+## Installation and Execution
 To run this project:
 
 Clone the repository and create a virtual environment (e.g., using conda) with the dependencies listed in the requirements.txt file.
@@ -15,7 +15,7 @@ Copy code
 python app.py
 Follow the on-screen instructions to interact with the application.
 
-Project Structure
+## Project Structure
 The project is organized into the following directories:
 
 htmls: Contains the HTML files retrieved from the web.
