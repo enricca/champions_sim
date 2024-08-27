@@ -1,0 +1,600 @@
+Season;League;Position;Team;GamesPlayed;Wins;Draws;Losses;GoalsFavour;GoalsAgainst;GoalDifference;Points
+2013-2014;la-liga;1;Atletico Madrid;38;28;6;4;77;26;51;90
+2013-2014;la-liga;2;Barcelona;38;27;6;5;100;33;67;87
+2013-2014;la-liga;3;Real Madrid;38;27;6;5;104;38;66;87
+2013-2014;la-liga;4;Athletic Bilbao;38;20;10;8;66;39;27;70
+2013-2014;la-liga;5;Sevilla;38;18;9;11;69;52;17;63
+2013-2014;la-liga;6;Villarreal;38;17;8;13;60;44;16;59
+2013-2014;la-liga;7;Real Sociedad;38;16;11;11;62;55;7;59
+2013-2014;la-liga;8;Valencia;38;13;10;15;51;53;-2;49
+2013-2014;la-liga;9;Celta Vigo;38;14;7;17;49;54;-5;49
+2014-2015;la-liga;1;Barcelona;38;30;4;4;110;21;89;94
+2014-2015;la-liga;2;Real Madrid;38;30;2;6;118;38;80;92
+2014-2015;la-liga;3;Atletico Madrid;38;23;9;6;67;29;38;78
+2014-2015;la-liga;4;Valencia;38;22;11;5;70;32;38;77
+2014-2015;la-liga;5;Sevilla;38;23;7;8;71;45;26;76
+2014-2015;la-liga;6;Villarreal;38;16;12;10;48;37;11;60
+2014-2015;la-liga;7;Athletic Bilbao;38;15;10;13;42;41;1;55
+2014-2015;la-liga;8;Celta Vigo;38;13;12;13;47;44;3;51
+2015-2016;la-liga;1;Barcelona;38;29;4;5;112;29;83;91
+2015-2016;la-liga;2;Real Madrid;38;28;6;4;110;34;76;90
+2015-2016;la-liga;3;Atletico Madrid;38;28;4;6;63;18;45;88
+2015-2016;la-liga;4;Villarreal;38;18;10;10;44;35;9;64
+2015-2016;la-liga;5;Athletic Bilbao;38;18;8;12;58;45;13;62
+2015-2016;la-liga;6;Celta Vigo;38;17;9;12;51;59;-8;60
+2015-2016;la-liga;7;Sevilla;38;14;10;14;51;50;1;52
+2016-2017;la-liga;1;Real Madrid;38;29;6;3;106;41;65;93
+2016-2017;la-liga;2;Barcelona;38;28;6;4;116;37;79;90
+2016-2017;la-liga;3;Atletico Madrid;38;23;9;6;70;27;43;78
+2016-2017;la-liga;4;Sevilla;38;21;9;8;69;49;20;72
+2016-2017;la-liga;5;Villarreal;38;19;10;9;56;33;23;67
+2016-2017;la-liga;6;Real Sociedad;38;19;7;12;59;53;6;64
+2016-2017;la-liga;7;Athletic Bilbao;38;19;6;13;53;43;10;63
+2016-2017;la-liga;8;Espanyol;38;15;11;12;49;50;-1;56
+2016-2017;la-liga;9;Alaves;38;14;13;11;41;43;-2;55
+2017-2018;la-liga;1;Barcelona;38;28;9;1;99;29;70;93
+2017-2018;la-liga;2;Atletico Madrid;38;23;10;5;58;22;36;79
+2017-2018;la-liga;3;Real Madrid;38;22;10;6;94;44;50;76
+2017-2018;la-liga;4;Valencia;38;22;7;9;65;38;27;73
+2017-2018;la-liga;5;Villarreal;38;18;7;13;57;50;7;61
+2017-2018;la-liga;6;Real Betis;38;18;6;14;60;61;-1;60
+2017-2018;la-liga;7;Sevilla;38;17;7;14;49;58;-9;58
+2017-2018;la-liga;8;Getafe;38;15;10;13;42;33;9;55
+2018-2019;la-liga;1;Barcelona;38;26;9;3;90;36;54;87
+2018-2019;la-liga;2;Atletico Madrid;38;22;10;6;55;29;26;76
+2018-2019;la-liga;3;Real Madrid;38;21;5;12;63;46;17;68
+2018-2019;la-liga;4;Valencia;38;15;16;7;51;35;16;61
+2018-2019;la-liga;5;Getafe;38;15;14;9;48;35;13;59
+2018-2019;la-liga;6;Sevilla;38;17;8;13;62;47;15;59
+2018-2019;la-liga;7;Espanyol;38;14;11;13;48;50;-2;53
+2018-2019;la-liga;8;Athletic Bilbao;38;13;14;11;41;45;-4;53
+2018-2019;la-liga;9;Real Sociedad;38;13;11;14;45;46;-1;50
+2018-2019;la-liga;10;Real Betis;38;14;8;16;44;52;-8;50
+2018-2019;la-liga;11;Alaves;38;13;11;14;39;50;-11;50
+2019-2020;la-liga;1;Real Madrid;38;26;9;3;70;25;45;87
+2019-2020;la-liga;2;Barcelona;38;25;7;6;86;38;48;82
+2019-2020;la-liga;3;Atletico Madrid;38;18;16;4;51;27;24;70
+2019-2020;la-liga;4;Sevilla;38;19;13;6;54;34;20;70
+2019-2020;la-liga;5;Villarreal;38;18;6;14;63;49;14;60
+2019-2020;la-liga;6;Real Sociedad;38;16;8;14;56;48;8;56
+2020-2021;la-liga;1;Atletico Madrid;38;26;8;4;67;25;42;86
+2020-2021;la-liga;2;Real Madrid;38;25;9;4;67;28;39;84
+2020-2021;la-liga;3;Barcelona;38;24;7;7;85;38;47;79
+2020-2021;la-liga;4;Sevilla;38;24;5;9;53;33;20;77
+2020-2021;la-liga;5;Real Sociedad;38;17;11;10;59;38;21;62
+2020-2021;la-liga;6;Real Betis;38;17;10;11;50;50;0;61
+2020-2021;la-liga;7;Villarreal;38;15;13;10;60;44;16;58
+2020-2021;la-liga;8;Celta Vigo;38;14;11;13;55;57;-2;53
+2021-2022;la-liga;1;Real Madrid;38;26;8;4;80;31;49;86
+2021-2022;la-liga;2;Barcelona;38;21;10;7;68;38;30;73
+2021-2022;la-liga;3;Atletico Madrid;38;21;8;9;65;43;22;71
+2021-2022;la-liga;4;Sevilla;38;18;16;4;53;30;23;70
+2021-2022;la-liga;5;Real Betis;38;19;8;11;62;40;22;65
+2021-2022;la-liga;6;Real Sociedad;38;17;11;10;40;37;3;62
+2021-2022;la-liga;7;Villarreal;38;16;11;11;63;37;26;59
+2021-2022;la-liga;8;Athletic Bilbao;38;14;13;11;43;36;7;55
+2021-2022;la-liga;9;Valencia;38;11;15;12;48;53;-5;48
+2021-2022;la-liga;10;Osasuna;38;12;11;15;37;51;-14;47
+2021-2022;la-liga;11;Celta Vigo;38;12;10;16;43;43;0;46
+2021-2022;la-liga;12;Rayo Vallecano;38;11;9;18;39;50;-11;42
+2022-2023;la-liga;1;Barcelona;38;28;4;6;70;20;50;88
+2022-2023;la-liga;2;Real Madrid;38;24;6;8;75;36;39;78
+2022-2023;la-liga;3;Atletico Madrid;38;23;8;7;70;33;37;77
+2022-2023;la-liga;4;Real Sociedad;38;21;8;9;51;35;16;71
+2022-2023;la-liga;5;Villarreal;38;19;7;12;59;40;19;64
+2022-2023;la-liga;6;Real Betis;38;17;9;12;46;41;5;60
+2022-2023;la-liga;7;Osasuna;38;15;8;15;37;42;-5;53
+2022-2023;la-liga;8;Athletic Bilbao;38;14;9;15;47;43;4;51
+2022-2023;la-liga;9;Real Mallorca;38;14;8;16;37;43;-6;50
+2022-2023;la-liga;10;Girona;38;13;10;15;58;55;3;49
+2022-2023;la-liga;11;Rayo Vallecano;38;13;10;15;45;53;-8;49
+2022-2023;la-liga;12;Sevilla;38;13;10;15;47;54;-7;49
+2022-2023;la-liga;13;Celta Vigo;38;11;10;17;43;53;-10;43
+2023-2024;la-liga;1;Real Madrid;38;29;8;1;87;26;61;95
+2023-2024;la-liga;2;Barcelona;38;26;7;5;79;44;35;85
+2023-2024;la-liga;3;Girona;38;25;6;7;85;46;39;81
+2023-2024;la-liga;4;Atletico Madrid;38;24;4;10;70;43;27;76
+2023-2024;la-liga;5;Athletic Bilbao;38;19;11;8;61;37;24;68
+2023-2024;la-liga;6;Real Sociedad;38;16;12;10;51;39;12;60
+2023-2024;la-liga;7;Real Betis;38;14;15;9;48;45;3;57
+2023-2024;la-liga;8;Villarreal;38;14;11;13;65;65;0;53
+2023-2024;la-liga;9;Valencia;38;13;10;15;40;45;-5;49
+2023-2024;la-liga;10;Alaves;38;12;10;16;36;46;-10;46
+2023-2024;la-liga;11;Osasuna;38;12;9;17;45;56;-11;45
+2023-2024;la-liga;12;Getafe;38;10;13;15;42;54;-12;43
+2023-2024;la-liga;13;Celta Vigo;38;10;11;17;46;57;-11;41
+2023-2024;la-liga;14;Sevilla;38;10;11;17;48;54;-6;41
+2023-2024;la-liga;15;Real Mallorca;38;8;16;14;33;44;-11;40
+2023-2024;la-liga;16;Las Palmas;38;10;10;18;33;47;-14;40
+2023-2024;la-liga;17;Rayo Vallecano;38;8;14;16;29;48;-19;38
+2013-2014;premier-league;1;Manchester City;38;27;5;6;102;37;65;86
+2013-2014;premier-league;2;Liverpool;38;26;6;6;101;50;51;84
+2013-2014;premier-league;3;Chelsea;38;25;7;6;71;27;44;82
+2013-2014;premier-league;4;Arsenal;38;24;7;7;68;41;27;79
+2013-2014;premier-league;5;Everton;38;21;9;8;61;39;22;72
+2013-2014;premier-league;6;Tottenham Hotspur;38;21;6;11;55;51;4;69
+2013-2014;premier-league;7;Manchester United;38;19;7;12;64;43;21;64
+2013-2014;premier-league;8;Southampton;38;15;11;12;54;46;8;56
+2013-2014;premier-league;9;Stoke City;38;13;11;14;45;52;-7;50
+2013-2014;premier-league;10;Newcastle United;38;15;4;19;43;59;-16;49
+2013-2014;premier-league;11;Crystal Palace;38;13;6;19;33;48;-15;45
+2013-2014;premier-league;12;Swansea City;38;11;9;18;54;54;0;42
+2013-2014;premier-league;13;West Ham United;38;11;7;20;40;51;-11;40
+2013-2014;premier-league;14;Sunderland;38;10;8;20;41;60;-19;38
+2013-2014;premier-league;15;Aston Villa;38;10;8;20;39;61;-22;38
+2013-2014;premier-league;16;Hull City;38;10;7;21;38;53;-15;37
+2013-2014;premier-league;17;West Bromwich Albion;38;7;15;16;43;59;-16;36
+2013-2014;premier-league;18;Norwich City;38;8;9;21;28;62;-34;33
+2013-2014;premier-league;19;Fulham;38;9;5;24;40;85;-45;32
+2013-2014;premier-league;20;Cardiff City;38;7;9;22;32;74;-42;30
+2014-2015;premier-league;1;Chelsea;38;26;9;3;73;32;41;87
+2014-2015;premier-league;2;Manchester City;38;24;7;7;83;38;45;79
+2014-2015;premier-league;3;Arsenal;38;22;9;7;71;36;35;75
+2014-2015;premier-league;4;Manchester United;38;20;10;8;62;37;25;70
+2014-2015;premier-league;5;Tottenham Hotspur;38;19;7;12;58;53;5;64
+2014-2015;premier-league;6;Liverpool;38;18;8;12;52;48;4;62
+2014-2015;premier-league;7;Southampton;38;18;6;14;54;33;21;60
+2014-2015;premier-league;8;Swansea City;38;16;8;14;46;49;-3;56
+2014-2015;premier-league;9;Stoke City;38;15;9;14;48;45;3;54
+2014-2015;premier-league;10;Crystal Palace;38;13;9;16;47;51;-4;48
+2014-2015;premier-league;11;Everton;38;12;11;15;48;50;-2;47
+2014-2015;premier-league;12;West Ham United;38;12;11;15;44;47;-3;47
+2014-2015;premier-league;13;West Bromwich Albion;38;11;11;16;38;51;-13;44
+2014-2015;premier-league;14;Leicester City;38;11;8;19;46;55;-9;41
+2014-2015;premier-league;15;Newcastle United;38;10;9;19;40;63;-23;39
+2014-2015;premier-league;16;Sunderland;38;7;17;14;31;53;-22;38
+2014-2015;premier-league;17;Aston Villa;38;10;8;20;31;57;-26;38
+2014-2015;premier-league;18;Hull City;38;8;11;19;33;51;-18;35
+2014-2015;premier-league;19;Burnley;38;7;12;19;28;53;-25;33
+2014-2015;premier-league;20;Queens Park Rangers;38;8;6;24;42;73;-31;30
+2015-2016;premier-league;1;Leicester City;38;23;12;3;68;36;32;81
+2015-2016;premier-league;2;Arsenal;38;20;11;7;65;36;29;71
+2015-2016;premier-league;3;Tottenham Hotspur;38;19;13;6;69;35;34;70
+2015-2016;premier-league;4;Manchester City;38;19;9;10;71;41;30;66
+2015-2016;premier-league;5;Manchester United;38;19;9;10;49;35;14;66
+2015-2016;premier-league;6;Southampton;38;18;9;11;59;41;18;63
+2015-2016;premier-league;7;West Ham United;38;16;14;8;65;51;14;62
+2015-2016;premier-league;8;Liverpool;38;16;12;10;63;50;13;60
+2015-2016;premier-league;9;Stoke City;38;14;9;15;41;55;-14;51
+2015-2016;premier-league;10;Chelsea;38;12;14;12;59;53;6;50
+2015-2016;premier-league;11;Everton;38;11;14;13;59;55;4;47
+2015-2016;premier-league;12;Swansea City;38;12;11;15;42;52;-10;47
+2015-2016;premier-league;13;Watford;38;12;9;17;40;50;-10;45
+2015-2016;premier-league;14;West Bromwich Albion;38;10;13;15;34;48;-14;43
+2015-2016;premier-league;15;Crystal Palace;38;11;9;18;39;51;-12;42
+2015-2016;premier-league;16;Bournemouth;38;11;9;18;45;67;-22;42
+2015-2016;premier-league;17;Sunderland;38;9;12;17;48;62;-14;39
+2015-2016;premier-league;18;Newcastle United;38;9;10;19;44;65;-21;37
+2015-2016;premier-league;19;Norwich City;38;9;7;22;39;67;-28;34
+2015-2016;premier-league;20;Aston Villa;38;3;8;27;27;76;-49;17
+2016-2017;premier-league;1;Chelsea;38;30;3;5;85;33;52;93
+2016-2017;premier-league;2;Tottenham Hotspur;38;26;8;4;86;26;60;86
+2016-2017;premier-league;3;Manchester City;38;23;9;6;80;39;41;78
+2016-2017;premier-league;4;Liverpool;38;22;10;6;78;42;36;76
+2016-2017;premier-league;5;Arsenal;38;23;6;9;77;44;33;75
+2016-2017;premier-league;6;Manchester United;38;18;15;5;54;29;25;69
+2016-2017;premier-league;7;Everton;38;17;10;11;62;44;18;61
+2016-2017;premier-league;8;Southampton;38;12;10;16;41;48;-7;46
+2016-2017;premier-league;9;Bournemouth;38;12;10;16;55;67;-12;46
+2016-2017;premier-league;10;West Bromwich Albion;38;12;9;17;43;51;-8;45
+2016-2017;premier-league;11;West Ham United;38;12;9;17;47;64;-17;45
+2016-2017;premier-league;12;Leicester City;38;12;8;18;48;63;-15;44
+2016-2017;premier-league;13;Stoke City;38;11;11;16;41;56;-15;44
+2016-2017;premier-league;14;Crystal Palace;38;12;5;21;50;63;-13;41
+2016-2017;premier-league;15;Swansea City;38;12;5;21;45;70;-25;41
+2016-2017;premier-league;16;Burnley;38;11;7;20;39;55;-16;40
+2016-2017;premier-league;17;Watford;38;11;7;20;40;68;-28;40
+2016-2017;premier-league;18;Hull City;38;9;7;22;37;80;-43;34
+2016-2017;premier-league;19;Middlesbrough;38;5;13;20;27;53;-26;28
+2016-2017;premier-league;20;Sunderland;38;6;6;26;29;69;-40;24
+2017-2018;premier-league;1;Manchester City;38;32;4;2;106;27;79;100
+2017-2018;premier-league;2;Manchester United;38;25;6;7;68;28;40;81
+2017-2018;premier-league;3;Tottenham Hotspur;38;23;8;7;74;36;38;77
+2017-2018;premier-league;4;Liverpool;38;21;12;5;84;38;46;75
+2017-2018;premier-league;5;Chelsea;38;21;7;10;62;38;24;70
+2017-2018;premier-league;6;Arsenal;38;19;6;13;74;51;23;63
+2017-2018;premier-league;7;Burnley;38;14;12;12;36;39;-3;54
+2017-2018;premier-league;8;Everton;38;13;10;15;44;58;-14;49
+2017-2018;premier-league;9;Leicester City;38;12;11;15;56;60;-4;47
+2017-2018;premier-league;10;Newcastle United;38;12;8;18;39;47;-8;44
+2017-2018;premier-league;11;Crystal Palace;38;11;11;16;45;55;-10;44
+2017-2018;premier-league;12;Bournemouth;38;11;11;16;45;61;-16;44
+2017-2018;premier-league;13;West Ham United;38;10;12;16;48;68;-20;42
+2017-2018;premier-league;14;Watford;38;11;8;19;44;64;-20;41
+2017-2018;premier-league;15;Brighton and Hove Albion;38;9;13;16;34;54;-20;40
+2017-2018;premier-league;16;Huddersfield Town;38;9;10;19;28;58;-30;37
+2017-2018;premier-league;17;Southampton;38;7;15;16;37;56;-19;36
+2017-2018;premier-league;18;Swansea City;38;8;9;21;28;56;-28;33
+2017-2018;premier-league;19;Stoke City;38;7;12;19;35;68;-33;33
+2017-2018;premier-league;20;West Bromwich Albion;38;6;13;19;31;56;-25;31
+2018-2019;premier-league;1;Manchester City;38;32;2;4;95;23;72;98
+2018-2019;premier-league;2;Liverpool;38;30;7;1;89;22;67;97
+2018-2019;premier-league;3;Chelsea;38;21;9;8;63;39;24;72
+2018-2019;premier-league;4;Tottenham Hotspur;38;23;2;13;67;39;28;71
+2018-2019;premier-league;5;Arsenal;38;21;7;10;73;51;22;70
+2018-2019;premier-league;6;Manchester United;38;19;9;10;65;54;11;66
+2018-2019;premier-league;7;Wolverhampton Wanderers;38;16;9;13;47;46;1;57
+2018-2019;premier-league;8;Everton;38;15;9;14;54;46;8;54
+2018-2019;premier-league;9;Leicester City;38;15;7;16;51;48;3;52
+2018-2019;premier-league;10;West Ham United;38;15;7;16;52;55;-3;52
+2018-2019;premier-league;11;Watford;38;14;8;16;52;59;-7;50
+2018-2019;premier-league;12;Crystal Palace;38;14;7;17;51;53;-2;49
+2018-2019;premier-league;13;Newcastle United;38;12;9;17;42;48;-6;45
+2018-2019;premier-league;14;Bournemouth;38;13;6;19;56;70;-14;45
+2018-2019;premier-league;15;Burnley;38;11;7;20;45;68;-23;40
+2018-2019;premier-league;16;Southampton;38;9;12;17;45;65;-20;39
+2018-2019;premier-league;17;Brighton and Hove Albion;38;9;9;20;35;60;-25;36
+2018-2019;premier-league;18;Cardiff City;38;10;4;24;34;69;-35;34
+2018-2019;premier-league;19;Fulham;38;7;5;26;34;81;-47;26
+2018-2019;premier-league;20;Huddersfield Town;38;3;7;28;22;76;-54;16
+2019-2020;premier-league;1;Liverpool;38;32;3;3;85;33;52;99
+2019-2020;premier-league;2;Manchester City;38;26;3;9;102;35;67;81
+2019-2020;premier-league;3;Manchester United;38;18;12;8;66;36;30;66
+2019-2020;premier-league;4;Chelsea;38;20;6;12;69;54;15;66
+2019-2020;premier-league;5;Leicester City;38;18;8;12;67;41;26;62
+2019-2020;premier-league;6;Tottenham Hotspur;38;16;11;11;61;47;14;59
+2019-2020;premier-league;7;Wolverhampton Wanderers;38;15;14;9;51;40;11;59
+2019-2020;premier-league;8;Arsenal;38;14;14;10;56;48;8;56
+2019-2020;premier-league;9;Sheffield United;38;14;12;12;39;39;0;54
+2019-2020;premier-league;10;Burnley;38;15;9;14;43;50;-7;54
+2019-2020;premier-league;11;Southampton;38;15;7;16;51;60;-9;52
+2019-2020;premier-league;12;Everton;38;13;10;15;44;56;-12;49
+2019-2020;premier-league;13;Newcastle United;38;11;11;16;38;58;-20;44
+2019-2020;premier-league;14;Crystal Palace;38;11;10;17;31;50;-19;43
+2019-2020;premier-league;15;Brighton and Hove Albion;38;9;14;15;39;54;-15;41
+2019-2020;premier-league;16;West Ham United;38;10;9;19;49;62;-13;39
+2019-2020;premier-league;17;Aston Villa;38;9;8;21;41;67;-26;35
+2019-2020;premier-league;18;Bournemouth;38;9;7;22;40;65;-25;34
+2019-2020;premier-league;19;Watford;38;8;10;20;36;64;-28;34
+2019-2020;premier-league;20;Norwich City;38;5;6;27;26;75;-49;21
+2020-2021;premier-league;1;Manchester City;38;27;5;6;83;32;51;86
+2020-2021;premier-league;2;Manchester United;38;21;11;6;73;44;29;74
+2020-2021;premier-league;3;Liverpool;38;20;9;9;68;42;26;69
+2020-2021;premier-league;4;Chelsea;38;19;10;9;58;36;22;67
+2020-2021;premier-league;5;Leicester City;38;20;6;12;68;50;18;66
+2020-2021;premier-league;6;West Ham United;38;19;8;11;62;47;15;65
+2020-2021;premier-league;7;Tottenham Hotspur;38;18;8;12;68;45;23;62
+2020-2021;premier-league;8;Arsenal;38;18;7;13;55;39;16;61
+2020-2021;premier-league;9;Leeds United;38;18;5;15;62;54;8;59
+2020-2021;premier-league;10;Everton;38;17;8;13;47;48;-1;59
+2020-2021;premier-league;11;Aston Villa;38;16;7;15;55;46;9;55
+2020-2021;premier-league;12;Newcastle United;38;12;9;17;46;62;-16;45
+2020-2021;premier-league;13;Wolverhampton Wanderers;38;12;9;17;36;52;-16;45
+2020-2021;premier-league;14;Crystal Palace;38;12;8;18;41;66;-25;44
+2020-2021;premier-league;15;Southampton;38;12;7;19;47;68;-21;43
+2020-2021;premier-league;16;Brighton and Hove Albion;38;9;14;15;40;46;-6;41
+2020-2021;premier-league;17;Burnley;38;10;9;19;33;55;-22;39
+2020-2021;premier-league;18;Fulham;38;5;13;20;27;53;-26;28
+2020-2021;premier-league;19;West Bromwich Albion;38;5;11;22;35;76;-41;26
+2020-2021;premier-league;20;Sheffield United;38;7;2;29;20;63;-43;23
+2021-2022;premier-league;1;Manchester City;38;29;6;3;99;26;73;93
+2021-2022;premier-league;2;Liverpool;38;28;8;2;94;26;68;92
+2021-2022;premier-league;3;Chelsea;38;21;11;6;76;33;43;74
+2021-2022;premier-league;4;Tottenham Hotspur;38;22;5;11;69;40;29;71
+2021-2022;premier-league;5;Arsenal;38;22;3;13;61;48;13;69
+2021-2022;premier-league;6;Manchester United;38;16;10;12;57;57;0;58
+2021-2022;premier-league;7;West Ham United;38;16;8;14;60;51;9;56
+2021-2022;premier-league;8;Leicester City;38;14;10;14;62;59;3;52
+2021-2022;premier-league;9;Brighton and Hove Albion;38;12;15;11;42;44;-2;51
+2021-2022;premier-league;10;Wolverhampton Wanderers;38;15;6;17;38;43;-5;51
+2021-2022;premier-league;11;Newcastle United;38;13;10;15;44;62;-18;49
+2021-2022;premier-league;12;Crystal Palace;38;11;15;12;50;46;4;48
+2021-2022;premier-league;13;Brentford;38;13;7;18;48;56;-8;46
+2021-2022;premier-league;14;Aston Villa;38;13;6;19;52;54;-2;45
+2021-2022;premier-league;15;Southampton;38;9;13;16;43;67;-24;40
+2021-2022;premier-league;16;Everton;38;11;6;21;43;66;-23;39
+2021-2022;premier-league;17;Leeds United;38;9;11;18;42;79;-37;38
+2021-2022;premier-league;18;Burnley;38;7;14;17;34;53;-19;35
+2021-2022;premier-league;19;Watford;38;6;5;27;34;77;-43;23
+2021-2022;premier-league;20;Norwich City;38;5;7;26;23;84;-61;22
+2022-2023;premier-league;1;Manchester City;38;28;5;5;94;33;61;89
+2022-2023;premier-league;2;Arsenal;38;26;6;6;88;43;45;84
+2022-2023;premier-league;3;Manchester United;38;23;6;9;58;43;15;75
+2022-2023;premier-league;4;Newcastle United;38;19;14;5;68;33;35;71
+2022-2023;premier-league;5;Liverpool;38;19;10;9;75;47;28;67
+2022-2023;premier-league;6;Brighton and Hove Albion;38;18;8;12;72;53;19;62
+2022-2023;premier-league;7;Aston Villa;38;18;7;13;51;46;5;61
+2022-2023;premier-league;8;Tottenham Hotspur;38;18;6;14;70;63;7;60
+2022-2023;premier-league;9;Brentford;38;15;14;9;58;46;12;59
+2022-2023;premier-league;10;Fulham;38;15;7;16;55;53;2;52
+2022-2023;premier-league;11;Crystal Palace;38;11;12;15;40;49;-9;45
+2022-2023;premier-league;12;Chelsea;38;11;11;16;38;47;-9;44
+2022-2023;premier-league;13;Wolverhampton Wanderers;38;11;8;19;31;58;-27;41
+2022-2023;premier-league;14;West Ham United;38;11;7;20;42;55;-13;40
+2022-2023;premier-league;15;Bournemouth;38;11;6;21;37;71;-34;39
+2022-2023;premier-league;16;Nottingham Forest;38;9;11;18;38;68;-30;38
+2022-2023;premier-league;17;Everton;38;8;12;18;34;57;-23;36
+2022-2023;premier-league;18;Leicester City;38;9;7;22;51;68;-17;34
+2022-2023;premier-league;19;Leeds United;38;7;10;21;48;78;-30;31
+2022-2023;premier-league;20;Southampton;38;6;7;25;36;73;-37;25
+2023-2024;premier-league;1;Manchester City;38;28;7;3;96;34;62;91
+2023-2024;premier-league;2;Arsenal;38;28;5;5;91;29;62;89
+2023-2024;premier-league;3;Liverpool;38;24;10;4;86;41;45;82
+2023-2024;premier-league;4;Aston Villa;38;20;8;10;76;61;15;68
+2023-2024;premier-league;5;Tottenham Hotspur;38;20;6;12;74;61;13;66
+2023-2024;premier-league;6;Chelsea;38;18;9;11;77;63;14;63
+2023-2024;premier-league;7;Newcastle United;38;18;6;14;85;62;23;60
+2023-2024;premier-league;8;Manchester United;38;18;6;14;57;58;-1;60
+2023-2024;premier-league;9;West Ham United;38;14;10;14;60;74;-14;52
+2023-2024;premier-league;10;Crystal Palace;38;13;10;15;57;58;-1;49
+2023-2024;premier-league;11;Brighton and Hove Albion;38;12;12;14;55;62;-7;48
+2023-2024;premier-league;12;Bournemouth;38;13;9;16;54;67;-13;48
+2023-2024;premier-league;13;Fulham;38;13;8;17;55;61;-6;47
+2023-2024;premier-league;14;Wolverhampton Wanderers;38;13;7;18;50;65;-15;46
+2023-2024;premier-league;15;Everton *;38;13;9;16;40;51;-11;40
+2023-2024;premier-league;16;Brentford;38;10;9;19;56;65;-9;39
+2023-2024;premier-league;17;Nottingham Forest **;38;9;9;20;49;67;-18;32
+2023-2024;premier-league;18;Luton Town;38;6;8;24;52;85;-33;26
+2023-2024;premier-league;19;Burnley;38;5;9;24;41;78;-37;24
+2023-2024;premier-league;20;Sheffield United;38;3;7;28;35;104;-69;16
+2013-2014;serie-a;1;Juventus;38;33;3;2;80;23;57;102
+2013-2014;serie-a;2;Roma;38;26;7;5;72;25;47;85
+2013-2014;serie-a;3;Napoli;38;23;9;6;77;39;38;78
+2013-2014;serie-a;4;Fiorentina;38;19;8;11;65;44;21;65
+2013-2014;serie-a;5;Inter Milan;38;15;15;8;62;39;23;60
+2013-2014;serie-a;6;Parma;38;15;13;10;58;46;12;58
+2013-2014;serie-a;7;Torino;38;15;12;11;58;48;10;57
+2013-2014;serie-a;8;AC Milan;38;16;9;13;57;49;8;57
+2013-2014;serie-a;9;Lazio;38;15;11;12;54;54;0;56
+2013-2014;serie-a;10;Verona;38;16;6;16;62;68;-6;54
+2013-2014;serie-a;11;Atalanta;38;15;5;18;43;51;-8;50
+2014-2015;serie-a;1;Juventus;38;26;9;3;72;24;48;87
+2014-2015;serie-a;2;Roma;38;19;13;6;54;31;23;70
+2014-2015;serie-a;3;Lazio;38;21;6;11;71;38;33;69
+2014-2015;serie-a;4;Fiorentina;38;18;10;10;61;46;15;64
+2014-2015;serie-a;5;Napoli;38;18;9;11;70;54;16;63
+2014-2015;serie-a;6;Genoa;38;16;11;11;62;47;15;59
+2015-2016;serie-a;1;Juventus;38;29;4;5;75;20;55;91
+2015-2016;serie-a;2;Napoli;38;25;7;6;80;32;48;82
+2015-2016;serie-a;3;Roma;38;23;11;4;83;41;42;80
+2015-2016;serie-a;4;Inter Milan;38;20;7;11;50;38;12;67
+2015-2016;serie-a;5;Fiorentina;38;18;10;10;60;42;18;64
+2016-2017;serie-a;1;Juventus;38;29;4;5;77;27;50;91
+2016-2017;serie-a;2;Roma;38;28;3;7;90;38;52;87
+2016-2017;serie-a;3;Napoli;38;26;8;4;94;39;55;86
+2016-2017;serie-a;4;Atalanta;38;21;9;8;62;41;21;72
+2016-2017;serie-a;5;Lazio;38;21;7;10;74;51;23;70
+2016-2017;serie-a;6;AC Milan;38;18;9;11;57;45;12;63
+2016-2017;serie-a;7;Inter Milan;38;19;5;14;72;49;23;62
+2016-2017;serie-a;8;Fiorentina;38;16;12;10;63;57;6;60
+2016-2017;serie-a;9;Torino;38;13;14;11;71;66;5;53
+2017-2018;serie-a;1;Juventus;38;30;5;3;86;24;62;95
+2017-2018;serie-a;2;Napoli;38;28;7;3;77;29;48;91
+2017-2018;serie-a;3;Roma;38;23;8;7;61;28;33;77
+2017-2018;serie-a;4;Inter Milan;38;20;12;6;66;30;36;72
+2017-2018;serie-a;5;Lazio;38;21;9;8;89;49;40;72
+2017-2018;serie-a;6;AC Milan;38;18;10;10;56;42;14;64
+2017-2018;serie-a;7;Atalanta;38;16;12;10;57;39;18;60
+2017-2018;serie-a;8;Fiorentina;38;16;9;13;54;46;8;57
+2017-2018;serie-a;9;Torino;38;13;15;10;54;46;8;54
+2018-2019;serie-a;1;Juventus;38;28;6;4;70;30;40;90
+2018-2019;serie-a;2;Napoli;38;24;7;7;74;36;38;79
+2018-2019;serie-a;3;Atalanta;38;20;9;9;77;46;31;69
+2018-2019;serie-a;4;Inter Milan;38;20;9;9;57;33;24;69
+2018-2019;serie-a;5;AC Milan;38;19;11;8;55;36;19;68
+2018-2019;serie-a;6;Roma;38;18;12;8;66;48;18;66
+2018-2019;serie-a;7;Torino;38;16;15;7;52;37;15;63
+2018-2019;serie-a;8;Lazio;38;17;8;13;56;46;10;59
+2019-2020;serie-a;1;Juventus;38;26;5;7;76;43;33;83
+2019-2020;serie-a;2;Inter Milan;38;24;10;4;81;36;45;82
+2019-2020;serie-a;3;Atalanta;38;23;9;6;98;48;50;78
+2019-2020;serie-a;4;Lazio;38;24;6;8;79;42;37;78
+2019-2020;serie-a;5;Roma;38;21;7;10;77;51;26;70
+2019-2020;serie-a;6;AC Milan;38;19;9;10;63;46;17;66
+2019-2020;serie-a;7;Napoli;38;18;8;12;61;50;11;62
+2020-2021;serie-a;1;Inter Milan;38;28;7;3;89;35;54;91
+2020-2021;serie-a;2;AC Milan;38;24;7;7;74;41;33;79
+2020-2021;serie-a;3;Atalanta;38;23;9;6;90;47;43;78
+2020-2021;serie-a;4;Juventus;38;23;9;6;77;38;39;78
+2020-2021;serie-a;5;Napoli;38;24;5;9;86;41;45;77
+2020-2021;serie-a;6;Lazio;38;21;5;12;61;55;6;68
+2020-2021;serie-a;7;Roma;38;18;8;12;68;58;10;62
+2021-2022;serie-a;1;AC Milan;38;26;8;4;69;31;38;86
+2021-2022;serie-a;2;Inter Milan;38;25;9;4;84;32;52;84
+2021-2022;serie-a;3;Napoli;38;24;7;7;74;31;43;79
+2021-2022;serie-a;4;Juventus;38;20;10;8;57;37;20;70
+2021-2022;serie-a;5;Lazio;38;18;10;10;77;58;19;64
+2021-2022;serie-a;6;Roma;38;18;9;11;59;43;16;63
+2021-2022;serie-a;7;Fiorentina;38;19;5;14;59;51;8;62
+2021-2022;serie-a;8;Atalanta;38;16;11;11;65;48;17;59
+2021-2022;serie-a;9;Verona;38;14;11;13;65;59;6;53
+2021-2022;serie-a;10;Torino;38;13;11;14;46;41;5;50
+2022-2023;serie-a;1;Napoli;38;28;6;4;77;28;49;90
+2022-2023;serie-a;2;Lazio;38;22;8;8;60;30;30;74
+2022-2023;serie-a;3;Inter Milan;38;23;3;12;71;42;29;72
+2022-2023;serie-a;4;AC Milan;38;20;10;8;64;43;21;70
+2022-2023;serie-a;5;Atalanta;38;19;7;12;66;48;18;64
+2022-2023;serie-a;6;Roma;38;18;9;11;50;38;12;63
+2022-2023;serie-a;7;Juventus *;38;22;6;10;56;33;23;62
+2022-2023;serie-a;8;Fiorentina;38;15;11;12;53;43;10;56
+2022-2023;serie-a;9;Bologna;38;14;12;12;53;49;4;54
+2022-2023;serie-a;10;Torino;38;14;11;13;42;41;1;53
+2022-2023;serie-a;11;Monza;38;14;10;14;48;52;-4;52
+2022-2023;serie-a;12;Udinese;38;11;13;14;47;48;-1;46
+2023-2024;serie-a;1;Inter Milan;38;29;7;2;89;22;67;94
+2023-2024;serie-a;2;AC Milan;38;22;9;7;76;49;27;75
+2023-2024;serie-a;3;Juventus;38;19;14;5;54;31;23;71
+2023-2024;serie-a;4;Atalanta;38;21;6;11;72;42;30;69
+2023-2024;serie-a;5;Bologna;38;18;14;6;54;32;22;68
+2023-2024;serie-a;6;Roma;38;18;9;11;65;46;19;63
+2023-2024;serie-a;7;Lazio;38;18;7;13;49;39;10;61
+2023-2024;serie-a;8;Fiorentina;38;17;9;12;61;46;15;60
+2023-2024;serie-a;9;Torino;38;13;14;11;36;36;0;53
+2023-2024;serie-a;10;Napoli;38;13;14;11;55;48;7;53
+2023-2024;serie-a;11;Genoa;38;12;13;13;45;45;0;49
+2023-2024;serie-a;12;Monza;38;11;12;15;39;51;-12;45
+2023-2024;serie-a;13;Verona;38;9;11;18;38;51;-13;38
+2023-2024;serie-a;14;Lecce;38;8;14;16;32;54;-22;38
+2023-2024;serie-a;15;Udinese;38;6;19;13;37;53;-16;37
+2023-2024;serie-a;16;Cagliari;38;8;12;18;42;68;-26;36
+2023-2024;serie-a;17;Empoli;38;9;9;20;29;54;-25;36
+2013-2014;ligue-1;1;Paris Saint-Germain;38;27;8;3;84;23;61;89
+2013-2014;ligue-1;2;Monaco;38;23;11;4;63;31;32;80
+2013-2014;ligue-1;3;Lille;38;20;11;7;46;26;20;71
+2013-2014;ligue-1;4;St Etienne;38;20;9;9;56;34;22;69
+2013-2014;ligue-1;5;Lyon;38;17;10;11;56;44;12;61
+2013-2014;ligue-1;6;Marseille;38;16;12;10;53;40;13;60
+2014-2015;ligue-1;1;Paris Saint-Germain;38;24;11;3;83;36;47;83
+2014-2015;ligue-1;2;Lyon;38;22;9;7;72;33;39;75
+2014-2015;ligue-1;3;Monaco;38;20;11;7;51;26;25;71
+2014-2015;ligue-1;4;Marseille;38;21;6;11;76;42;34;69
+2014-2015;ligue-1;5;St Etienne;38;19;12;7;51;30;21;69
+2015-2016;ligue-1;1;Paris Saint-Germain;38;30;6;2;102;19;83;96
+2015-2016;ligue-1;2;Lyon;38;19;8;11;67;43;24;65
+2015-2016;ligue-1;3;Monaco;38;17;14;7;57;50;7;65
+2015-2016;ligue-1;4;Nice;38;18;9;11;58;41;17;63
+2015-2016;ligue-1;5;Lille;38;15;15;8;39;27;12;60
+2015-2016;ligue-1;6;St Etienne;38;17;7;14;42;37;5;58
+2016-2017;ligue-1;1;Monaco;38;30;5;3;107;31;76;95
+2016-2017;ligue-1;2;Paris Saint-Germain;38;27;6;5;83;27;56;87
+2016-2017;ligue-1;3;Nice;38;22;12;4;63;36;27;78
+2016-2017;ligue-1;4;Lyon;38;21;4;13;77;48;29;67
+2016-2017;ligue-1;5;Marseille;38;17;11;10;57;41;16;62
+2017-2018;ligue-1;1;Paris Saint-Germain;38;29;6;3;108;29;79;93
+2017-2018;ligue-1;2;Monaco;38;24;8;6;85;45;40;80
+2017-2018;ligue-1;3;Lyon;38;23;9;6;87;43;44;78
+2017-2018;ligue-1;4;Marseille;38;22;11;5;80;47;33;77
+2017-2018;ligue-1;5;Rennes;38;16;10;12;50;44;6;58
+2018-2019;ligue-1;1;Paris Saint-Germain;38;29;4;5;105;35;70;91
+2018-2019;ligue-1;2;Lille;38;22;9;7;68;33;35;75
+2018-2019;ligue-1;3;Lyon;38;21;9;8;70;47;23;72
+2018-2019;ligue-1;4;St Etienne;38;19;9;10;59;41;18;66
+2018-2019;ligue-1;5;Marseille;38;18;7;13;60;52;8;61
+2018-2019;ligue-1;6;Montpellier;38;15;14;9;53;42;11;59
+2018-2019;ligue-1;7;Nice;38;15;11;12;30;35;-5;56
+2018-2019;ligue-1;8;Reims;38;13;16;9;39;42;-3;55
+2019-2020;ligue-1;1;Paris Saint-Germain;27;22;2;3;75;24;51;68
+2019-2020;ligue-1;2;Marseille;28;16;8;4;41;29;12;56
+2019-2020;ligue-1;3;Rennes;28;15;5;8;38;24;14;50
+2019-2020;ligue-1;4;Lille;28;15;4;9;35;27;8;49
+2019-2020;ligue-1;5;Nice;28;11;8;9;41;38;3;41
+2019-2020;ligue-1;6;Reims;28;10;11;7;26;21;5;41
+2019-2020;ligue-1;7;Lyon;28;11;7;10;42;27;15;40
+2019-2020;ligue-1;8;Montpellier;28;11;7;10;35;34;1;40
+2019-2020;ligue-1;9;Monaco;28;11;7;10;44;44;0;40
+2019-2020;ligue-1;10;Strasbourg;27;11;5;11;32;32;0;38
+2019-2020;ligue-1;11;Angers;28;11;6;11;28;33;-5;39
+2020-2021;ligue-1;1;Lille;38;24;11;3;64;23;41;83
+2020-2021;ligue-1;2;Paris Saint-Germain;38;26;4;8;86;28;58;82
+2020-2021;ligue-1;3;Monaco;38;24;6;8;76;42;34;78
+2020-2021;ligue-1;4;Lyon;38;22;10;6;81;43;38;76
+2020-2021;ligue-1;5;Marseille;38;16;12;10;54;47;7;60
+2020-2021;ligue-1;6;Rennes;38;16;10;12;52;40;12;58
+2020-2021;ligue-1;7;RC Lens;38;15;12;11;55;54;1;57
+2020-2021;ligue-1;8;Montpellier;38;14;12;12;60;62;-2;54
+2020-2021;ligue-1;9;Nice;38;15;7;16;50;53;-3;52
+2021-2022;ligue-1;1;Paris Saint-Germain;38;26;8;4;90;36;54;86
+2021-2022;ligue-1;2;Marseille;38;21;8;9;63;38;25;71
+2021-2022;ligue-1;3;Monaco;38;20;9;9;65;40;25;69
+2021-2022;ligue-1;4;Rennes;38;20;6;12;82;40;42;66
+2021-2022;ligue-1;5;Nice *;38;20;7;11;52;36;16;66
+2021-2022;ligue-1;6;Strasbourg;38;17;12;9;60;43;17;63
+2021-2022;ligue-1;7;RC Lens;38;17;11;10;62;48;14;62
+2021-2022;ligue-1;8;Lyon **;38;17;11;10;66;51;15;61
+2021-2022;ligue-1;9;Nantes;38;15;10;13;55;48;7;55
+2021-2022;ligue-1;10;Lille;38;14;13;11;48;48;0;55
+2021-2022;ligue-1;11;Brest;38;13;9;16;49;57;-8;48
+2021-2022;ligue-1;12;Reims;38;11;13;14;43;44;-1;46
+2021-2022;ligue-1;13;Montpellier;38;12;7;19;49;61;-12;43
+2021-2022;ligue-1;14;Angers;38;10;11;17;44;55;-11;41
+2022-2023;ligue-1;1;Paris Saint-Germain;38;27;4;7;89;40;49;85
+2022-2023;ligue-1;2;RC Lens;38;25;9;4;68;29;39;84
+2022-2023;ligue-1;3;Marseille;38;22;7;9;67;40;27;73
+2022-2023;ligue-1;4;Rennes;38;21;5;12;69;39;30;68
+2022-2023;ligue-1;5;Lille;38;19;10;9;65;44;21;67
+2022-2023;ligue-1;6;Monaco;38;19;8;11;70;58;12;65
+2022-2023;ligue-1;7;Lyon;38;18;8;12;65;47;18;62
+2023-2024;ligue-1;1;Paris Saint-Germain;34;22;10;2;81;33;48;76
+2023-2024;ligue-1;2;Monaco;34;20;7;7;68;42;26;67
+2023-2024;ligue-1;3;Brest;34;17;10;7;53;34;19;61
+2023-2024;ligue-1;4;Lille;34;16;11;7;52;34;18;59
+2023-2024;ligue-1;5;Nice;34;15;10;9;40;29;11;55
+2023-2024;ligue-1;6;Lyon;34;16;5;13;49;55;-6;53
+2023-2024;ligue-1;7;RC Lens;34;14;9;11;45;37;8;51
+2023-2024;ligue-1;8;Marseille;34;13;11;10;52;41;11;50
+2023-2024;ligue-1;9;Reims;34;13;8;13;42;47;-5;47
+2023-2024;ligue-1;10;Rennes;34;12;10;12;53;46;7;46
+2023-2024;ligue-1;11;Toulouse;34;11;10;13;42;46;-4;43
+2023-2024;ligue-1;12;Montpellier *;34;10;12;12;43;48;-5;41
+2023-2024;ligue-1;13;Strasbourg;34;10;9;15;38;50;-12;39
+2023-2024;ligue-1;14;Nantes;34;9;6;19;30;55;-25;33
+2023-2024;ligue-1;15;Le Havre;34;7;11;16;34;45;-11;32
+2013-2014;bundesliga;1;Bayern Munich;34;29;3;2;94;23;71;90
+2013-2014;bundesliga;2;Borussia Dortmund;34;22;5;7;80;38;42;71
+2014-2015;bundesliga;1;Bayern Munich;34;25;4;5;80;18;62;79
+2014-2015;bundesliga;2;Wolfsburg;34;20;9;5;72;38;34;69
+2014-2015;bundesliga;3;M'gladbach;34;19;9;6;53;26;27;66
+2014-2015;bundesliga;4;Bayer Leverkusen;34;17;10;7;62;37;25;61
+2014-2015;bundesliga;5;FC Augsburg;34;15;4;15;43;43;0;49
+2015-2016;bundesliga;1;Bayern Munich;34;28;4;2;80;17;63;88
+2015-2016;bundesliga;2;Borussia Dortmund;34;24;6;4;82;34;48;78
+2015-2016;bundesliga;3;Bayer Leverkusen;34;18;6;10;56;40;16;60
+2015-2016;bundesliga;4;M'gladbach;34;17;4;13;67;50;17;55
+2016-2017;bundesliga;1;Bayern Munich;34;25;7;2;89;22;67;82
+2016-2017;bundesliga;2;RB Leipzig;34;20;7;7;66;39;27;67
+2016-2017;bundesliga;3;Borussia Dortmund;34;18;10;6;72;40;32;64
+2016-2017;bundesliga;4;Hoffenheim;34;16;14;4;64;37;27;62
+2017-2018;bundesliga;1;Bayern Munich;34;27;3;4;92;28;64;84
+2018-2019;bundesliga;1;Bayern Munich;34;24;6;4;88;32;56;78
+2018-2019;bundesliga;2;Borussia Dortmund;34;23;7;4;81;44;37;76
+2018-2019;bundesliga;3;RB Leipzig;34;19;9;6;63;29;34;66
+2018-2019;bundesliga;4;Bayer Leverkusen;34;18;4;12;69;52;17;58
+2018-2019;bundesliga;5;M'gladbach;34;16;7;11;55;42;13;55
+2018-2019;bundesliga;6;Wolfsburg;34;16;7;11;62;50;12;55
+2018-2019;bundesliga;7;Eintracht Frankfurt;34;15;9;10;60;48;12;54
+2018-2019;bundesliga;8;Werder Bremen;34;14;11;9;58;49;9;53
+2018-2019;bundesliga;9;Hoffenheim;34;13;12;9;70;52;18;51
+2019-2020;bundesliga;1;Bayern Munich;34;26;4;4;100;32;68;82
+2019-2020;bundesliga;2;Borussia Dortmund;34;21;6;7;84;41;43;69
+2019-2020;bundesliga;3;RB Leipzig;34;18;12;4;81;37;44;66
+2019-2020;bundesliga;4;M'gladbach;34;20;5;9;66;40;26;65
+2019-2020;bundesliga;5;Bayer Leverkusen;34;19;6;9;61;44;17;63
+2019-2020;bundesliga;6;Hoffenheim;34;15;7;12;53;53;0;52
+2019-2020;bundesliga;7;Wolfsburg;34;13;10;11;48;46;2;49
+2019-2020;bundesliga;8;SC Freiburg;34;13;9;12;48;47;1;48
+2019-2020;bundesliga;9;Eintracht Frankfurt;34;13;6;15;59;60;-1;45
+2020-2021;bundesliga;1;Bayern Munich;34;24;6;4;99;44;55;78
+2020-2021;bundesliga;2;RB Leipzig;34;19;8;7;60;32;28;65
+2020-2021;bundesliga;3;Borussia Dortmund;34;20;4;10;75;46;29;64
+2020-2021;bundesliga;4;Wolfsburg;34;17;10;7;61;37;24;61
+2020-2021;bundesliga;5;Eintracht Frankfurt;34;16;12;6;69;53;16;60
+2020-2021;bundesliga;6;Bayer Leverkusen;34;14;10;10;53;39;14;52
+2020-2021;bundesliga;7;1. FC Union Berlin;34;12;14;8;50;43;7;50
+2020-2021;bundesliga;8;M'gladbach;34;13;10;11;64;56;8;49
+2020-2021;bundesliga;9;Stuttgart;34;12;9;13;56;55;1;45
+2020-2021;bundesliga;10;SC Freiburg;34;12;9;13;52;52;0;45
+2020-2021;bundesliga;11;Hoffenheim;34;11;10;13;52;54;-2;43
+2020-2021;bundesliga;12;Mainz;34;10;9;15;39;56;-17;39
+2020-2021;bundesliga;13;FC Augsburg;34;10;6;18;36;54;-18;36
+2021-2022;bundesliga;1;Bayern Munich;34;24;5;5;97;37;60;77
+2021-2022;bundesliga;2;Borussia Dortmund;34;22;3;9;85;52;33;69
+2021-2022;bundesliga;3;Bayer Leverkusen;34;19;7;8;80;47;33;64
+2021-2022;bundesliga;4;RB Leipzig;34;17;7;10;72;37;35;58
+2021-2022;bundesliga;5;1. FC Union Berlin;34;16;9;9;50;44;6;57
+2021-2022;bundesliga;6;SC Freiburg;34;15;10;9;58;46;12;55
+2022-2023;bundesliga;1;Bayern Munich;34;21;8;5;92;38;54;71
+2022-2023;bundesliga;2;Borussia Dortmund;34;22;5;7;83;44;39;71
+2022-2023;bundesliga;3;RB Leipzig;34;20;6;8;64;41;23;66
+2022-2023;bundesliga;4;1. FC Union Berlin;34;18;8;8;51;38;13;62
+2022-2023;bundesliga;5;SC Freiburg;34;17;8;9;51;44;7;59
+2022-2023;bundesliga;6;Bayer Leverkusen;34;14;8;12;57;49;8;50
+2022-2023;bundesliga;7;Eintracht Frankfurt;34;13;11;10;58;52;6;50
+2022-2023;bundesliga;8;Wolfsburg;34;13;10;11;57;48;9;49
+2022-2023;bundesliga;9;Mainz;34;12;10;12;54;55;-1;46
+2022-2023;bundesliga;10;M'gladbach;34;11;10;13;52;55;-3;43
+2023-2024;bundesliga;1;Bayer Leverkusen;34;28;6;0;89;24;65;90
+2023-2024;bundesliga;2;Stuttgart;34;23;4;7;78;39;39;73
+2023-2024;bundesliga;3;Bayern Munich;34;23;3;8;94;45;49;72
+2023-2024;bundesliga;4;RB Leipzig;34;19;8;7;77;39;38;65
+2023-2024;bundesliga;5;Borussia Dortmund;34;18;9;7;68;43;25;63
+2023-2024;bundesliga;6;Eintracht Frankfurt;34;11;14;9;51;50;1;47
+2023-2024;bundesliga;7;Hoffenheim;34;13;7;14;66;66;0;46
+2023-2024;bundesliga;8;1. FC Heidenheim 1846;34;10;12;12;50;55;-5;42
+2023-2024;bundesliga;9;Werder Bremen;34;11;9;14;48;54;-6;42
+2023-2024;bundesliga;10;SC Freiburg;34;11;9;14;45;58;-13;42
+2023-2024;bundesliga;11;FC Augsburg;34;10;9;15;50;60;-10;39
+2023-2024;bundesliga;12;Wolfsburg;34;10;7;17;41;56;-15;37
+2023-2024;bundesliga;13;Mainz;34;7;14;13;39;51;-12;35
+2023-2024;bundesliga;14;M'gladbach;34;7;13;14;56;67;-11;34
+2023-2024;bundesliga;15;1. FC Union Berlin;34;9;6;19;33;58;-25;33
+2023-2024;bundesliga;16;Bochum;34;7;12;15;42;74;-32;33
