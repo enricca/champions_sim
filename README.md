@@ -37,7 +37,7 @@ templates: Contains the HTML files responsible for the layout and design of the 
 The core application logic is in app.py, which builds the Flask app and integrates the simulation code from montecarlo.py.
 
 
-Future Development
+## Future Development
 This project has potential for further expansion and refinement. Possible next steps include:
 
 Expanding Data Collection:
