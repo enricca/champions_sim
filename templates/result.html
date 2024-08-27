@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulation Result</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@latest"></script>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="{{ url_for('static', filename='styles.css') }}" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 style="margin-bottom: 2px;">Simulation Result</h1> <!-- Slightly larger margin for better spacing -->
+        <canvas id="resultChart" width="210" height="25"></canvas> <!-- Keep as is -->
+        <div style="margin-top: 2px;"> <!-- Directly set margin-top to 10px -->
+            <h3 style="margin-top: 2px; margin-bottom: 2px;">Bracket Simulation</h3> <!-- Adjust margins -->
+            <img src="{{ url_for('static', filename='bracket_plot.png') }}" alt="Bracket Simulation" style="margin-top: 0;">
+        </div>
+    </div>
+    <!-- Bootstrap JS, Popper.js, and jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

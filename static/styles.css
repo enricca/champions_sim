@@ -1,0 +1,54 @@
+/* styles.css */
+
+/* Customize the card look */
+.card {
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+/* Customize the background */
+body {
+    background-color: #f4f4f4;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Customize the form controls */
+.form-control {
+    border-radius: 5px;
+}
+
+/* Buttons customization */
+.btn {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/* Header customization */
+.card-header {
+    font-size: 1.5rem;
+}
+
+h1 {
+    margin-bottom: 2px; /* Adjust as needed */
+}
+
+#resultChart {
+    margin-top: 0; /* Keep this */
+    padding: 0; /* Ensure no extra padding */
+    margin-bottom: 0; /* Remove any bottom margin */
+}
+
+
+h3 {
+    margin-top: 10px; /* Adjust as needed to bring it closer to the chart */
+    margin-bottom: 5px; /* Adjust space between h3 and the image */
+}
+
+.img-fluid {
+    margin-top: 0; /* Ensure no extra top margin */
+}
+
+head {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}

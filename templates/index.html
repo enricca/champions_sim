@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monte Carlo Simulation</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="{{ url_for('static', filename='styles.css') }}" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="card shadow-lg">
+                    <div class="card-header bg-primary text-white text-center">
+                        <h2>Champions League Simulation</h2>
+                    </div>
+                    <div class="card-body">
+                        <form action="{{ url_for('result') }}" method="post" onsubmit="startProgress()">
+                            <div class="form-group">
+                                <label for="season">Select Season</label>
+                                <select class="form-control" name="season" id="season" required>
+                                    <option value="">-- Select Season --</option>
+                                    {% for season in teams_data.keys() %}
+                                        <option value="{{ season }}">{{ season }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="team">Select Team</label>
+                                <select class="form-control" name="team" id="team" required>
+                                    <option value="">-- Select Team --</option>
+                                    <!-- Teams will be populated dynamically -->
+                                </select>
+                            </div>
+                            <button type="submit" class="btn btn-success btn-block">Run Simulation</button>
+                        </form>
+
+                        <!-- Progress bar -->
+                        <div id="progress-container" style="display:none; margin-top: 20px;">
+                            <label for="progress">Simulation Progress:</label>
+                            <progress id="progress" value="0" max="100" class="w-100"></progress>
+                            <span id="progress-text">0%</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        var socket = io();
+
+        socket.on('progress_update', function(data) {
+            var progress = data.progress;
+            document.getElementById('progress').value = progress;
+            document.getElementById('progress-text').innerText = progress + '%';
+        });
+
+        function startProgress() {
+            document.getElementById('progress-container').style.display = 'block';
+        }
+    </script>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('#season').change(function() {
+                var season = $(this).val();
+                if (season) {
+                    $.getJSON('/get_teams/' + season, function(data) {
+                        var teamDropdown = $('#team');
+                        teamDropdown.empty(); // Clear the previous options
+                        teamDropdown.append('<option value="">-- Select Team --</option>');
+                        $.each(data, function(key, value) {
+                            teamDropdown.append('<option value="' + value + '">' + value + '</option>');
+                        });
+                    }).fail(function() {
+                        alert('Failed to load teams. Please try again.');
+                    });
+                } else {
+                    $('#team').empty().append('<option value="">-- Select Team --</option>');
+                }
+            });
+        });
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
