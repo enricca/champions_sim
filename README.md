@@ -62,9 +62,9 @@ Improving Model Training:
 - Explore data augmentation techniques for upsampling.
 - Enhancing Aesthetics:
 
-Improve the visual design and user interface of the application.
-Advanced Probability Calculations:
+Improve Flask App:
 
-Calculate the probability of a team winning multiple championships by using compound probability methods.
+- Improve the visual design and user interface of the application.
+- Advanced Probability Calculations: Calculate the probability of a team winning multiple championships by using compound probability methods.
 
 
