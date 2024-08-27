@@ -33,6 +33,7 @@ The project is organized into the following directories:
 **models**: Stores the machine learning models for each season.
 
 **model.py**: Script used to train and manage the machine learning models.
+
 **static** and **templates**: Contains necessary files for the Flask application.
 
 - **static**: Stores the results plot and the CSS file that defines the visual style of the Flask app.
@@ -46,19 +47,20 @@ This project has potential for further expansion and refinement. Possible next s
 
 Expanding Data Collection:
 
-Incorporate data from additional years.
-Gather data from all European domestic leagues.
-Include detailed team information, such as starting lineups for each match or the most frequently played players throughout the season.
-Collect data on coaches and managers, including their win percentages with each team.
-Add referee data and their impact on game outcomes.
-Enhance local league data with more granular details, such as home and away performance, and performance against top teams.
+- Incorporate data from additional years.
+- Gather data from all European domestic leagues.
+- Include detailed team information, such as starting lineups for each match or the most frequently played players throughout the season.
+- Collect data on coaches and managers, including their win percentages with each team.
+- Add referee data and their impact on game outcomes.
+- Enhance local league data with more granular details, such as home and away performance, and performance against top teams.
+
 Improving Model Training:
 
-Implement better handling of missing values.
-Experiment with different machine learning models.
-Refine feature selection processes.
-Explore data augmentation techniques for upsampling.
-Enhancing Aesthetics:
+- Implement better handling of missing values.
+- Experiment with different machine learning models.
+- Refine feature selection processes.
+- Explore data augmentation techniques for upsampling.
+- Enhancing Aesthetics:
 
 Improve the visual design and user interface of the application.
 Advanced Probability Calculations:
