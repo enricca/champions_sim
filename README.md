@@ -7,34 +7,36 @@ The main goal of this project is to simulate UEFA Champions League games to dete
 ## Installation and Execution
 To run this project:
 
-Clone the repository and create a virtual environment (e.g., using conda) with the dependencies listed in the requirements.txt file.
+- Clone the repository and create a virtual environment (e.g., using conda) with the dependencies listed in the requirements.txt file.
 
-In your terminal, navigate to the project directory and execute the following command:
+- In your terminal, navigate to the project directory and execute the following command:
 
-Copy code
-python app.py
-Follow the on-screen instructions to interact with the application.
+    Copy code
+    ```
+    python app.py
+    ```
+- Follow the on-screen instructions to interact with the application.
 
 ## Project Structure
 The project is organized into the following directories:
 
-htmls: Contains the HTML files retrieved from the web.
+**htmls**: Contains the HTML files retrieved from the web.
 
-scrapper.py: Code used to scrape the web and obtain these HTML files.
-parse_elimination_games.py & parse_leagues.py: Code used to parse the HTML files into usable tables.
-data: Holds both the raw data parsed from the HTML files and the processed data for further use.
+**scrapper.py**: Code used to scrape the web and obtain these HTML files.
+**parse_elimination_games.py** and **parse_leagues.py**: Code used to parse the HTML files into usable tables.
+**data**: Holds both the raw data parsed from the HTML files and the processed data for further use.
 
-preprocess.py: Script for processing and preparing the data.
-utils: Contains a JSON file used for renaming teams, as there were multiple sources for web data.
+**preprocess.py**: Script for processing and preparing the data.
+**utils**: Contains a JSON file used for renaming teams, as there were multiple sources for web data.
 
-models: Stores the machine learning models for each season.
+**models**: Stores the machine learning models for each season.
 
-model.py: Script used to train and manage the machine learning models.
-static and templates: Contains necessary files for the Flask application.
+**model.py**: Script used to train and manage the machine learning models.
+**static** and **templates**: Contains necessary files for the Flask application.
 
-static: Stores the results plot and the CSS file that defines the visual style of the Flask app.
-templates: Contains the HTML files responsible for the layout and design of the Flask app.
-The core application logic is in app.py, which builds the Flask app and integrates the simulation code from montecarlo.py.
+**static**: Stores the results plot and the CSS file that defines the visual style of the Flask app.
+**templates**: Contains the HTML files responsible for the layout and design of the Flask app.
+The core application logic is in **app.py**, which builds the Flask app and integrates the simulation code from **montecarlo.py**.
 
 
 ## Future Development
